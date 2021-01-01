@@ -6,7 +6,7 @@ import './AboutSection.css';
 function AboutSection() {
   return (
     <div className='about-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      <video src='/videos/smoke.mp4' autoPlay loop muted />
       <h1>CHRISTOPHER EELES</h1>
       <p>The coolest guy ever!</p>
       <div className='About-btns'>
